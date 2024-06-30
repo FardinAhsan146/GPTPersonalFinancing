@@ -6,7 +6,7 @@
 * The apps do a terrible job scraping text messages and often confuse transaction messages and authentication messages.
 
 ### The plan 
-* Take an SMS backup
+* Take an SMS backup (or scrape it). 
 * Run a python script on it to clean up the data
 * Feed the data to an LLM to parse transaction vs authentication messages (if not easily doable through any other means). 
 * Get an auto-generated report made by me, for me. 
