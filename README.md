@@ -1,4 +1,4 @@
-# GPTPersonalFinancing-
+# GPTPersonalFinancing
 
 ### Why I need this and not a personal finance app  
 * I hate budgeting apps and personal financing apps. Most of them treat me like a 2-year-old. 
